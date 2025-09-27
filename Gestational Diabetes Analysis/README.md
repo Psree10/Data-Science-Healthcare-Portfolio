@@ -1,7 +1,7 @@
 # 🤰 Gestational Diabetes Data Analysis (PostgreSQL Project)  
 
 ## 📌 Overview  
-This project analyzed a **gestational diabetes dataset** using **PostgreSQL**, completed as part of a **company-organized SQL Hackathon**.  
+This project analyzed a **gestational diabetes dataset** using **PostgreSQL**, completed as part of a **company-organized SQL Hackathon challenge**.  
 The focus was on **data cleaning, normalization, query optimization, and analytical reasoning** to uncover clinical insights.  
 
 The analysis involved answering **80 structured SQL questions** provided in the challenge and additionally designing and solving **30 self-framed exploratory questions** to extend the scope of insights.  
