@@ -40,7 +40,7 @@ This repository contains my **healthcare-focused data projects**, where I worked
    - Python (pandas, NumPy, matplotlib, seaborn, plotly)  
    - Analysis of insulin bolus/basal dosing, carbohydrate intake, sleep patterns, and glucose variability.  
 
-6. **[Continuous Glucose Monitoring (CGM) & Diet Analysis](./cgm-diet-analysis/README.md)**  
+6. **[Continuous Glucose Monitoring (CGM) & Diet Analysis](https://github.com/Psree10/Portfolio/tree/main/Continuous%20Glucose%20Monitoring%20(CGM)%20%26%20Diet%20Analysis)**  
    - PostgreSQL | Power BI | Python | Google Script | Excel  
    - Nutrition classification, lifestyle activity levels, gut microbiome analysis, and glucose response patterns.  
 
