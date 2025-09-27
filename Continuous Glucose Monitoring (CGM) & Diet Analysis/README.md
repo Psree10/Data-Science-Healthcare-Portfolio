@@ -33,6 +33,22 @@ The goal was to **classify diet and lifestyle quality, evaluate postprandial glu
 ---
 
 ## 📷 Dashboard Preview  
-*(Insert screenshot of your Power BI dashboard here)*  
+<img width="624" height="354" alt="Picture4" src="https://github.com/user-attachments/assets/aeea1e75-d692-44e1-92ea-ba8391e323f3" />
+
+<img width="624" height="355" alt="Picture5" src="https://github.com/user-attachments/assets/c4dcc5f3-532d-4ef2-bc41-0cdf5a1014c2" />
+
+<img width="624" height="318" alt="Picture6" src="https://github.com/user-attachments/assets/4bdebfaf-d7fa-4bdd-a01a-ba09673a209d" />
+
+<img width="1445" height="858" alt="cgmacros 3" src="https://github.com/user-attachments/assets/7acd30c2-7414-4913-9794-cebfb1535e8e" />
+
+<img width="1480" height="854" alt="cgmacros 2" src="https://github.com/user-attachments/assets/2ceab183-babb-48e8-96af-a1ad501a6b1a" />
+
+
+
+
+
+
+ 
+
 
 ![CGM & Diet Dashboard](cgm_diet_dashboard.png)  
