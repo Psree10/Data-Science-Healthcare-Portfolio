@@ -8,10 +8,11 @@ I am a **Data Analyst & Data Science professional** with 8+ years of experience 
 This portfolio showcases the projects I have led and contributed to, applying **SQL, Python, Power BI, Tableau, SAS, and PostgreSQL** to extract insights from complex healthcare datasets.  
 
 My expertise lies in:  
-- Healthcare and pharmaceutical data systems  
 - ETL, data wrangling, and data modeling  
-- Clinical and patient-level analytics  
-- Dashboard development & data visualization  
+- Clinical and patient-level analytics
+- Exploratory Data Analysis, Prescriptive and Predictive Analysis with Machine Learning techniques
+- Dashboard development & data visualization
+- Healthcare and pharmaceutical data systems  
 - Leading cross-functional teams in data projects  
 
 ---
