@@ -4,7 +4,7 @@
 This project analyzed a **gestational diabetes dataset** using **PostgreSQL**, completed as part of a **company-organized SQL Hackathon challenge**.  
 The focus was on **data cleaning, normalization, query optimization, and analytical reasoning** to uncover clinical insights.  
 
-The analysis involved answering **80 structured SQL questions** provided in the challenge and additionally designing and solving **30 self-framed exploratory questions** to extend the scope of insights.  
+The analysis involved answering **80 structured SQL questions** provided in the challenge and additionally designing and solving **50 self-framed exploratory questions** to extend the scope of insights.  
 
 ---
 
@@ -12,7 +12,7 @@ The analysis involved answering **80 structured SQL questions** provided in the 
 - Perform **end-to-end SQL-based analysis** of gestational diabetes datasets.  
 - Apply **ETL in SQL** for data cleaning, normalization, and schema structuring.  
 - Solve **80 predefined SQL queries** with optimized solutions.  
-- Frame and solve **30 additional exploratory queries** for deeper maternal health insights.  
+- Frame and solve **50 additional exploratory queries** for deeper maternal health insights.  
 - Provide **scalable, business-relevant SQL solutions** within a competitive timeline.  
 
 ---
@@ -30,7 +30,7 @@ The analysis involved answering **80 structured SQL questions** provided in the 
 - Cleaned and normalized clinical data into **structured, query-ready tables**.  
 - Built optimized SQL queries to explore **risk factors, lab values, and maternal health outcomes**.  
 - Completed **80 structured queries** with accuracy and performance efficiency.  
-- Designed and answered **30 additional exploratory questions** to go beyond challenge requirements.  
+- Designed and answered **50 additional exploratory questions** to go beyond challenge requirements.  
 - Delivered **insights into patterns of gestational diabetes progression and outcomes**.  
 
 ---
