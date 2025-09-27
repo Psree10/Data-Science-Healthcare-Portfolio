@@ -24,7 +24,7 @@ This repository contains my **healthcare-focused data projects**, where I worked
    - SQL | Tableau | Power BI | ETL | Hospitalization datasets  
    - Risk factor identification, multiorgan dysfunction analysis, and early warning dashboards.  
 
-2. **[Elderly Diabetes Burden Analysis] (https://github.com/Psree10/Portfolio/tree/main/Elderly%20Diabetes%20-%20Analysis)**  
+2. **[Elderly Diabetes Burden Analysis](https://github.com/Psree10/Portfolio/tree/main/Elderly%20Diabetes%20-%20Analysis)**  
    - PostgreSQL | Power BI | DAX | Data Modeling  
    - Trends in prevalence, comorbidities, medication use, and complication monitoring.  
 
