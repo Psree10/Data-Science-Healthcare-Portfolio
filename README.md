@@ -52,11 +52,11 @@ This repository contains my **healthcare-focused data projects**, where I worked
 ---
 
 ## 🛠 Tools & Skills Highlighted  
-- **Databases:** PostgreSQL, MySQL, SQL Server, HANA  
-- **Programming:** Python (pandas, NumPy, matplotlib, seaborn, plotly), SAS  
-- **Visualization:** Power BI (DAX), Tableau, Excel  
-- **ETL & Data Modeling:** Star schema, Fact-Dimension modeling, SQL ETL pipelines  
-- **Others:** Google Apps Script, Git/GitHub, MS Office  
+- **Databases:** PostgreSQL, MySQL, SQL Server, HANA
+- **Programming & Data Wrangling:** Python (pandas, NumPy, matplotlib, seaborn, plotly), SAS
+- **Visualization:** Power BI (DAX, Power Query), Tableau, Excel
+- **ETL & Data Modeling:** SQL ETL pipelines, Power Query Editor, Python-based transformations, Star schema & Fact-Dimension modeling
+- **Others:** Google Apps Script, Git/GitHub, MS Office
 
 ---
 
