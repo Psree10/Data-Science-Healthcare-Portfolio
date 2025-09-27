@@ -32,7 +32,7 @@ This repository contains my **healthcare-focused data projects**, where I worked
    - SQL (ETL) | Power BI | DAX | Star Schema  
    - 115-variable dataset analyzing maternal factors, labor, delivery, and newborn outcomes.  
 
-4. **[Gestational Diabetes Analysis](./gestational-diabetes/README.md)**  
+4. **[Gestational Diabetes Analysis](   )**  
    - PostgreSQL | SQL | Power BI | ETL  
    - Risk factors, pregnancy history, lab results, and newborn health outcomes.  
 
