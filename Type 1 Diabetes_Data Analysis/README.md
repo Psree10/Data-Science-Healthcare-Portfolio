@@ -1,6 +1,3 @@
-# Team10_PythonWranglers_PythonHackathon_August25
-Repository of Team10 - Python Wranglers - Python Hackathon 2025 
-
 
 # HUPA-UCM Diabetes Dataset Analysis
 
@@ -152,6 +149,7 @@ To run the analysis, install dependencies:
 
 ```bash
 pip install -r requirements.txt
+
 
 
 
