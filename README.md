@@ -54,6 +54,7 @@ This repository contains my **healthcare-focused data projects**, where I worked
 ## 🛠 Tools & Skills Highlighted  
 - **Databases:** PostgreSQL, MySQL, SQL Server, HANA
 - **Programming & Data Wrangling:** Python (pandas, NumPy, matplotlib, seaborn, plotly), SAS
+- **Machine Learning & Predictive Analysis:** Scikit-learn, Regression/Classification models, Feature Engineering, Model Evaluation
 - **Visualization:** Power BI (DAX, Power Query), Tableau, Excel
 - **ETL & Data Modeling:** SQL ETL pipelines, Power Query Editor, Python-based transformations, Star schema & Fact-Dimension modeling
 - **Automation & Collaboration:** Google Apps Script, Git/GitHub, MS Office
