@@ -36,7 +36,7 @@ This repository contains my **healthcare-focused data projects**, where I worked
    - PostgreSQL | SQL | Power BI | ETL  
    - Risk factors, pregnancy history, lab results, and newborn health outcomes.  
 
-5. **[Type 1 Diabetes Management](./type1-diabetes/README.md)**  
+5. **[Type 1 Diabetes Management](https://github.com/Psree10/Portfolio/tree/main/Type%201%20Diabetes_Data%20Analysis)**  
    - Python (pandas, NumPy, matplotlib, seaborn, plotly)  
    - Analysis of insulin bolus/basal dosing, carbohydrate intake, sleep patterns, and glucose variability.  
 
