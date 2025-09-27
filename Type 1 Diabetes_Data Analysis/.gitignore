@@ -1,0 +1,25 @@
+# Ignore Python cache files
+__pycache__/
+*.py[cod]
+
+# Ignore Jupyter notebook checkpoints
+.ipynb_checkpoints/
+
+# Ignore data folders (optional if you don't want to push raw/large files)
+data/raw/
+data/processed/
+
+# Ignore environment files
+env/
+venv/
+*.env
+
+# Ignore system files
+.DS_Store      # Mac
+Thumbs.db      # Windows
+
+# Ignore Python egg/build files
+*.egg
+*.egg-info/
+dist/
+build/
