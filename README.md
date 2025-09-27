@@ -28,7 +28,7 @@ This repository contains my **healthcare-focused data projects**, where I worked
    - PostgreSQL | Power BI | DAX | Data Modeling  
    - Trends in prevalence, comorbidities, medication use, and complication monitoring.  
 
-3. **[Maternal Health Outcomes](./maternal-health/README.md)**  
+3. **[Maternal Health Outcomes](https://github.com/Psree10/Portfolio/tree/main/Maternal%20Health%20-%20Data%20Analysis)**  
    - SQL (ETL) | Power BI | DAX | Star Schema  
    - 115-variable dataset analyzing maternal factors, labor, delivery, and newborn outcomes.  
 
