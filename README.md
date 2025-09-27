@@ -20,7 +20,7 @@ My expertise lies in:
 This repository contains my **healthcare-focused data projects**, where I worked as a **Team Lead** guiding end-to-end workflows from data preparation to insights delivery.  
 
 ### 🔹 Featured Projects  
-1. **[Patient Sepsis Analysis](./sepsis-analysis/README.md)**  
+1. **[Patient Sepsis Analysis](./Sepsis-Patient-Data-Analysis/README.md)**  
    - SQL | Tableau | Power BI | ETL | Hospitalization datasets  
    - Risk factor identification, multiorgan dysfunction analysis, and early warning dashboards.  
 
