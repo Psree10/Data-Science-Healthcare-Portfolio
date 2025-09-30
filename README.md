@@ -66,3 +66,4 @@ If you’d like to connect, feel free to reach me on:
 - **GitHub:** [Psree10](https://github.com/Psree10)  
 - **LinkedIn:** (www.linkedin.com/in/psree10-7ba9b747)
 - **Tableau Profile:** (https://public.tableau.com/app/profile/psree10/vizzes)
+- **My Blog:** (https://medium.com/@Psree10)
