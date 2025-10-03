@@ -5,6 +5,7 @@
 
 ## 👩‍💻 About Me  
 I am a **Data Analyst & Data Science professional** with 8+ years of experience in **healthcare, pharmaceutical, and clinical research analytics**.  
+
 This portfolio showcases the projects I have led and contributed to, applying **SQL, Python, Power BI, Tableau, Excel, SAS, Machine Learning and PostgreSQL** to extract insights from complex healthcare datasets.  
 
 My expertise lies in:  
