@@ -35,4 +35,4 @@ Delivered insights on elderly diabetes trends supporting research, healthcare pr
 
 (Insert screenshot of your Power BI dashboard here)
 
-![Elderly Diabetes Dashboard](<img width="624" height="352" alt="Picture7" src="https://github.com/user-attachments/assets/53e3dfd9-50df-4cc8-bd1c-66f98a62fbd0" />)
+[Elderly Diabetes Dashboard](<img width="624" height="352" alt="Picture7" src="https://github.com/user-attachments/assets/53e3dfd9-50df-4cc8-bd1c-66f98a62fbd0" />)
