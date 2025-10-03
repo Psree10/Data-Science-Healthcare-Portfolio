@@ -1,4 +1,4 @@
-# 🏆 SQL Hackathon Challenge – 2nd Runner-Up  
+# 🏆 SQL Hackathon Challenge – 2nd Runner-Up   [[Award Certificate](https://github.com/Psree10/Data-Science-Healthcare-Portfolio/blob/main/SQL%20Hackathon%20Challenge/Award%20Certificate.pdf)]
 
 ## 📌 Overview  
 Participated in a **one-week SQL Hackathon** conducted within my company, focused on **PostgreSQL**. The challenge tested skills in **data cleaning, normalization, database design, join performance, query optimization, and reasoning behind SQL solutions**.  
