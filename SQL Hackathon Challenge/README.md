@@ -9,7 +9,7 @@ The emphasis was on **efficiency, scalability, and analytical value**, requiring
 
 ## 🎯 Objectives & Scope  
 - Solved **80 predefined questions** on a **gestational diabetes dataset** using PostgreSQL.  
-- Designed and answered **30 additional self-framed questions**, showcasing initiative and deeper analysis.  
+- Designed and answered **50 additional self-framed questions**, showcasing initiative and deeper analysis.  
 - Applied advanced SQL techniques to demonstrate **end-to-end data handling**: schema design, ETL, complex queries, and optimization.  
 
 ---
@@ -26,7 +26,7 @@ The emphasis was on **efficiency, scalability, and analytical value**, requiring
 
 ## 📊 Key Outcomes  
 - Completed **80 competition queries** with accuracy and performance optimization.  
-- Designed and solved **30 additional exploratory questions** for deeper business insights.  
+- Designed and solved **50 additional exploratory questions** for deeper business insights.  
 - Secured **2nd Runner-Up position** in the company-wide hackathon.  
 - Demonstrated **structured problem-solving and teamwork under time constraints**.  
 
