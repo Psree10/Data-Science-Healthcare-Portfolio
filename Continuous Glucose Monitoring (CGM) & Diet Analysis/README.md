@@ -55,6 +55,4 @@ The goal was to **classify diet and lifestyle quality, evaluate postprandial glu
 
 
  
-
-
-![CGM & Diet Dashboard](Upload powerbi files)  
+ 
