@@ -31,20 +31,20 @@ This repository contains my **healthcare-focused data projects**, where I worked
 
 3. **[Maternal Health Outcomes](https://github.com/Psree10/Portfolio/tree/main/Maternal%20Health%20-%20Data%20Analysis)**  
    - SQL (ETL) | Power BI | DAX | Star Schema  
-   - 115-variable dataset analyzing maternal factors, labor, delivery, and newborn outcomes.  
+   - 115-variable dataset analyzing maternal factors, labor, delivery, and newborn outcomes.
+  
+4. **[Continuous Glucose Monitoring (CGM) & Diet Analysis](https://github.com/Psree10/Portfolio/tree/main/Continuous%20Glucose%20Monitoring%20(CGM)%20%26%20Diet%20Analysis)**  
+   - PostgreSQL | Power BI | Python | Google Script | Excel  
+   - Nutrition classification, lifestyle activity levels, gut microbiome analysis, and glucose response patterns.
 
-4. **[Gestational Diabetes Analysis](https://github.com/Psree10/Data-Science-Healthcare-Portfolio/tree/main/Gestational%20Diabetes%20Analysis)**  
+5. **[Gestational Diabetes Analysis](https://github.com/Psree10/Data-Science-Healthcare-Portfolio/tree/main/Gestational%20Diabetes%20Analysis)**  
    - PostgreSQL | SQL | Power BI | ETL  
    - Risk factors, pregnancy history, lab results, and newborn health outcomes.  
 
-5. . **[Elderly Diabetes Burden Analysis](https://github.com/Psree10/Portfolio/tree/main/Elderly%20Diabetes%20-%20Analysis)**  
+6. **[Elderly Diabetes Burden Analysis](https://github.com/Psree10/Portfolio/tree/main/Elderly%20Diabetes%20-%20Analysis)**  
    - PostgreSQL | Power BI | DAX | Data Modeling  
    - Trends in prevalence, comorbidities, medication use, and complication monitoring.
      
-6. **[Continuous Glucose Monitoring (CGM) & Diet Analysis](https://github.com/Psree10/Portfolio/tree/main/Continuous%20Glucose%20Monitoring%20(CGM)%20%26%20Diet%20Analysis)**  
-   - PostgreSQL | Power BI | Python | Google Script | Excel  
-   - Nutrition classification, lifestyle activity levels, gut microbiome analysis, and glucose response patterns.  
-
 7. **[Oncology & Clinical Data Support](./oncology-support/README.md)**  
    - SQL | SAS | Clinical Trial & Hospital Data  
    - Breast cancer and melanoma survival analysis, treatment outcome evaluation, adverse event tracking.  
