@@ -18,7 +18,8 @@ This project focused on analyzing **Type 1 diabetes patient management data** wi
 - **pandas** – Data cleaning and tabular analysis.  
 - **NumPy** – Numerical computations.  
 - **matplotlib & seaborn** – Exploratory and comparative visualizations.  
-- **plotly** – Interactive charts for deeper data exploration.  
+- **plotly** – Interactive charts for deeper data exploration.
+- **Machine Learning:** - For predictive analysis
 
 ---
 
@@ -35,3 +36,4 @@ This project focused on analyzing **Type 1 diabetes patient management data** wi
 *(Insert screenshot of your charts here)*  
 
 ![Type 1 Diabetes Analysis](type1_diabetes_dashboard.png)  
+
