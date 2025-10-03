@@ -29,7 +29,7 @@ This repository contains my **healthcare-focused data projects**, where I worked
    - Python (Pandas, NumPy, Matplotlib, Seaborn, Plotly, Machine Learning)  
    - Analysis of insulin bolus/basal dosing, carbohydrate intake, calories_burned, sleep patterns, and glucose variability.  
 
-3. **[Maternal Health Outcomes](https://github.com/Psree10/Portfolio/tree/main/Maternal%20Health%20-%20Data%20Analysis)**  
+3. **[Maternal Health Outcomes Analysis](https://github.com/Psree10/Portfolio/tree/main/Maternal%20Health%20-%20Data%20Analysis)**  
    - SQL (ETL) | Power BI | DAX | Star Schema  
    - 115-variable dataset analyzing maternal factors, labor, delivery, and newborn outcomes.
   
