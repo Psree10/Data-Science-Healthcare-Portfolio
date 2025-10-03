@@ -80,7 +80,6 @@ We developed **actionable clinical questions** grouped into key areas:
 ---
 
 ## Key Findings
-*(Summarize findings here when analysis is complete)*
 
 ### Glucose and Insulin Management
 
@@ -146,6 +145,7 @@ To run the analysis, install dependencies:
 
 ```bash
 pip install -r requirements.txt
+
 
 
 
