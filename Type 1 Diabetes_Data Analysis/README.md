@@ -34,7 +34,8 @@ This project focused on analyzing **Type 1 diabetes patient management data** wi
 
 ## 📷 Visualization Preview  
 
-(Type 1 Diabetes_Data Analysis/Descriptive Analysis Charts.pdf)
+([Type 1 Diabetes_Data Analysis/Descriptive Analysis Charts.pdf](https://github.com/Psree10/Data-Science-Healthcare-Portfolio/blob/main/Type%201%20Diabetes_Data%20Analysis/Descriptive%20Analysis%20Charts.pdf))
+
 
 
 
