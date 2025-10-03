@@ -34,7 +34,7 @@ The goal was to **classify diet and lifestyle quality, evaluate postprandial glu
 
 ## 📷 Dashboard Preview 
 
-### CGM & Diet Dashboard
+### [CGM & Diet Dashboard](https://github.com/Psree10/Data-Science-Healthcare-Portfolio/blob/main/Continuous%20Glucose%20Monitoring%20(CGM)%20%26%20Diet%20Analysis/CGM%20-%20Dashboard%20images.md)
 
 
 ([<img width="1464" height="827" alt="Capture" src="https://github.com/user-attachments/assets/d1653e17-25ed-4d7e-b1ef-c4095ccf3edf" />](https://github.com/Psree10/Data-Science-Healthcare-Portfolio/blob/main/Continuous%20Glucose%20Monitoring%20(CGM)%20%26%20Diet%20Analysis/CGM%20-%20Dashboard%20images.md)
