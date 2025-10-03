@@ -33,7 +33,8 @@ This project focused on analyzing **Type 1 diabetes patient management data** wi
 ---
 
 ## 📷 Visualization Preview  
-*(Insert screenshot of your charts here)*  
 
-![Type 1 Diabetes Analysis](type1_diabetes_dashboard.png)  
+(Type 1 Diabetes_Data Analysis/Descriptive Analysis Charts.pdf)
+
+
 
