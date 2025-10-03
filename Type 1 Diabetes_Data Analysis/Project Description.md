@@ -123,8 +123,6 @@ We developed **actionable clinical questions** grouped into key areas:
 
 ## Authors
 
-**Team Name:** Python Wranglers  
-**Team Number:** 10  
 
 **Team Members:**  
 - Padmasree Basineni  
@@ -148,6 +146,7 @@ To run the analysis, install dependencies:
 
 ```bash
 pip install -r requirements.txt
+
 
 
 
