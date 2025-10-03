@@ -27,7 +27,7 @@ This repository contains my **healthcare-focused data projects**, where I worked
 
 2. **[Type 1 Diabetes Management](https://github.com/Psree10/Portfolio/tree/main/Type%201%20Diabetes_Data%20Analysis)**  
    - Python (Pandas, NumPy, Matplotlib, Seaborn, Plotly, Machine Learning)  
-   - Analysis of insulin bolus/basal dosing, carbohydrate intake, sleep patterns, and glucose variability.  
+   - Analysis of insulin bolus/basal dosing, carbohydrate intake, calories_burned, sleep patterns, and glucose variability.  
 
 3. **[Maternal Health Outcomes](https://github.com/Psree10/Portfolio/tree/main/Maternal%20Health%20-%20Data%20Analysis)**  
    - SQL (ETL) | Power BI | DAX | Star Schema  
