@@ -1,5 +1,5 @@
 
-![CGM - Dashboard 1](<img width="1464" height="827" alt="Capture" src="https://github.com/user-attachments/assets/86a87c79-ba49-4d47-aa0d-b4d6c0bafc3f" />)
+(![CGM - Dashboard 1](<img width="1464" height="827" alt="Capture" src="https://github.com/user-attachments/assets/86a87c79-ba49-4d47-aa0d-b4d6c0bafc3f" />))
 
 ![CGM - Dashboard 2](<img width="1485" height="817" alt="CGM - Dashboard 2" src="https://github.com/user-attachments/assets/f3ce48ec-7d70-4a82-bdcb-aa771888d0b3" />)
 
