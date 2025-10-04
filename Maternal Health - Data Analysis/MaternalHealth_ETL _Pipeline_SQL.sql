@@ -2,7 +2,7 @@
 
 
 
-------------------/* Maternal Health Project Phase 11 - 2025 -Finalized After Review By All Teams - SQL DATABASE */----------------------------------
+------------------/* Maternal Health Project - 2024 - Finalized DB After Review by the team - SQL DATABASE */----------------------------------
 
 __________________________________Base Table Creation Begining - Finalized ----------------------------------------------------------
 
@@ -1825,3 +1825,4 @@ RENAME COLUMN newborn_airway_aspiration TO newborn_asp;
 
 /* Deleting the raw table as it is affecting the ER Diagram */
 Drop table IF EXISTS mh_observations;
+
