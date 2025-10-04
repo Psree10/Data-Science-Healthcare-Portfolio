@@ -23,7 +23,7 @@ This repository contains my **healthcare-focused data projects**, where I worked
 
 ### 🔹 Featured Projects  
 1. **[Sepsis Patient Data Analysis](https://github.com/Psree10/Portfolio/tree/main/Sepsis%20Patient%20Data%20Analysis)**  
-   - SQL | Tableau | Power BI | ETL | Hospitalization datasets  
+   - Tableau | ETL | Hospitalization datasets  
    - Risk factor identification, multiorgan dysfunction analysis, and early warning dashboards.  
 
 2. **[Type 1 Diabetes Management](https://github.com/Psree10/Portfolio/tree/main/Type%201%20Diabetes_Data%20Analysis)**  
