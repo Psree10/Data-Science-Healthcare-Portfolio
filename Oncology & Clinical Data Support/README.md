@@ -3,11 +3,11 @@
 Role: Junior Associate – Data Mining & Analytics (Larvol)
 Domain: Oncology, Clinical Research, Genomics, Competitive Intelligence
 
-### Project Overview
+# Project Overview
 
 This project focuses on building a structured oncology intelligence framework that integrates clinical literature mining, genomics data analysis, and Power BI–based visualization to support pharmaceutical decision-making. The goal was to transform unstructured PubMed and clinical data into actionable insights for R&D, competitive strategy, and oncology portfolio optimization.
 
-## Key Contributions
+# Key Contributions
 
 #### Oncology Data Mining (PubMed + RegEx):
 Designed custom Regular Expressions and advanced search strings to extract oncology-specific drug and trial data from PubMed and other biomedical sources. Ensured accurate coverage of oncology generics, molecules, and therapeutic targets.
@@ -24,7 +24,7 @@ Conducted analytical studies linking oncology drug efficacy, genomics biomarkers
 #### Client Communication:
 Presented insights through dashboards, visual reports, and stakeholder briefings — supporting strategic planning, competitive assessments, and pipeline prioritization.
 
-### Tools & Skills
+## Tools & Skills
 
 -- Power Query Editor
 -- Python (RegEx)
@@ -35,6 +35,6 @@ Presented insights through dashboards, visual reports, and stakeholder briefings
 -- Genomic Analysis
 -- Visualization Design
 
-### Impact
+## Impact
 
 Delivered high-quality oncology intelligence datasets and interactive visualizations that empowered R&D and business strategy teams to identify market gaps, track competitor progress, and align research portfolios with clinical evidence.
