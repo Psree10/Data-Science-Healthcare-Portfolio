@@ -1,6 +1,6 @@
 # 🤰 Maternal Health Data Analysis  
 
-## 📌 Overview  
+## 📌 Project Overview  
 This project focused on analyzing a **comprehensive maternal health dataset** containing 115 variables, including **ultrasound findings, nutrition, clinical screenings, delivery outcomes, and newborn health metrics**.  
 
 The goal was to **evaluate maternal factors influencing pregnancy and newborn outcomes**, build a structured star schema for analysis, and provide actionable insights through **interactive Power BI dashboards**.  
