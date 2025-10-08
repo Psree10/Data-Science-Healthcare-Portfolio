@@ -1,4 +1,4 @@
-#🧬 Oncology & Clinical Data Support
+# 🧬 Oncology & Clinical Data Support
 
 Role: Junior Associate – Data Mining & Analytics (Larvol)
 Domain: Oncology, Clinical Research, Genomics, Competitive Intelligence
