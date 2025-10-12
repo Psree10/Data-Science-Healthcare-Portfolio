@@ -8,5 +8,8 @@
 
 <img width="1680" height="803" alt="image" src="https://github.com/user-attachments/assets/70eb25d2-835b-4d98-a46e-f6ff7a7ccb11" />
 
+<img width="1290" height="841" alt="Sepsis" src="https://github.com/user-attachments/assets/d8204016-2dec-4c03-81a3-d0b0de41c4ff" />
+
+
  
 
