@@ -7,8 +7,8 @@ This project focuses on analyzing hospital sepsis patient data to monitor incide
 To identify key clinical indicators and demographic factors influencing sepsis outcomes, assess multi-organ dysfunction scores, and enable early alerts for timely medical intervention.
 
 ### 🛠 Tools & Skills  
-**Tools:** Tableau, SQL
-**Skills:** Data Cleaning, Data Visualization, Clinical Data Analysis, KPI Design, Dashboard Development, Alert Automation
+-- **Tools:** Tableau, SQL
+-- **Skills:** Data Cleaning, Data Visualization, Clinical Data Analysis, KPI Design, Dashboard Development, Alert Automation
 
 ### ⭐ Key Features:
 
