@@ -7,18 +7,18 @@ This project focuses on analyzing hospital sepsis patient data to monitor incide
 To identify key clinical indicators and demographic factors influencing sepsis outcomes, assess multi-organ dysfunction scores, and enable early alerts for timely medical intervention.
 
 ### 🛠 Tools & Skills  
--- **Tools:** Tableau, SQL
--- **Skills:** Data Cleaning, Data Visualization, Clinical Data Analysis, KPI Design, Dashboard Development, Alert Automation
+- **Tools:** Tableau, SQL
+- **Skills:** Data Cleaning, Data Visualization, Clinical Data Analysis, KPI Design, Dashboard Development, Alert Automation
 
 ### ⭐ Key Features:
 
-**Patient Demographics Analysis:** Visualized sepsis prevalence by age, gender, and comorbidities to identify vulnerable patient groups.
+- **Patient Demographics Analysis:** Visualized sepsis prevalence by age, gender, and comorbidities to identify vulnerable patient groups.
 
-**Septic Shock & Organ-Level Analysis:** Tracked the severity and incidence of organ failures (renal, hepatic, cardiovascular, etc.) to assess progression patterns.
+- **Septic Shock & Organ-Level Analysis:** Tracked the severity and incidence of organ failures (renal, hepatic, cardiovascular, etc.) to assess progression patterns.
 
-**Multiorgan Dysfunction Score (MODS):** Designed Tableau views to monitor organ score changes over time for clinical severity assessment.
+- **Multiorgan Dysfunction Score (MODS):** Designed Tableau views to monitor organ score changes over time for clinical severity assessment.
 
-**SIRS Email Alert Indicator:** Implemented an automated Systemic Inflammatory Response Syndrome alert system to notify physicians when patients reach the trigger hour, enabling rapid ICU response.
+- **SIRS Email Alert Indicator:** Implemented an automated Systemic Inflammatory Response Syndrome alert system to notify physicians when patients reach the trigger hour, enabling rapid ICU response.
 
 ### Dashboard Preview  
 
