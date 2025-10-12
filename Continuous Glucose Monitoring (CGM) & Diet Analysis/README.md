@@ -18,7 +18,7 @@ The goal was to **classify diet and lifestyle quality, evaluate postprandial glu
 ## 🛠 Tools & Skills  
 - **PostgreSQL** – Accessed and queried participant datasets.  
 - **Power BI** – Data cleaning, transformation, modeling, and dashboard development with DAX.  
-- **Python (os, pandas)** – Automated renaming and organization of **3,577 participant food menu images**.  
+- **Python (os, pandas)** – Cleaned and merged CGM, dietary, activity, and gut-microbiome datasets using Python (pandas) for analysis. Automated renaming and organization of **3,577 participant food menu images**.  
 - **Google Apps Script** – Created Excel files linking food images with online URLs for structured referencing.  
 - **MS Excel** – Organized and analyzed gut microbiome datasets.  
 
