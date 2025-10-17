@@ -23,14 +23,12 @@ Presented insights through dashboards, visual reports, and stakeholder briefings
 
 ## Tools & Skills
 
--- Power Query Editor
--- Python (RegEx)
--- PubMed
--- Clinical Data Mining
--- Oncology Research
--- Data Cleaning & Transformation
--- Genomic Analysis
--- Visualization Design
+ - Power BI
+ - PubMed
+ - Clinical Data Mining
+ - Oncology Research
+ - Data Cleaning & Transformation
+ - Visualization Design
 
 ## Impact
 
