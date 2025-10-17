@@ -46,7 +46,7 @@ This repository contains my **healthcare-focused data projects**, where I worked
    - PostgreSQL | Power BI | DAX | Data Modeling  
    - Trends in prevalence, comorbidities, medication use, and complication monitoring.
      
-7. **[Oncology & Clinical Data Support](./oncology-support/README.md)**  
+7. **[Oncology & Clinical Data Support](https://github.com/Psree10/Data-Science-Healthcare-Portfolio/blob/main/Oncology%20&%20Clinical%20Data%20Support/README.md)**  
    - SQL | SAS | Clinical Trial & Hospital Data  
    - Breast cancer and melanoma survival analysis, treatment outcome evaluation, adverse event tracking.  
 
