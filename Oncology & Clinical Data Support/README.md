@@ -1,8 +1,5 @@
 # 🧬 Oncology & Clinical Data Support
 
-Role: Junior Associate – Data Mining & Analytics (Larvol)
-Domain: Oncology, Clinical Research, Genomics, Competitive Intelligence
-
 # Project Overview
 
 This project focuses on building a structured oncology intelligence framework that integrates clinical literature mining, genomics data analysis, and Power BI–based visualization to support pharmaceutical decision-making. The goal was to transform unstructured PubMed and clinical data into actionable insights for R&D, competitive strategy, and oncology portfolio optimization.
