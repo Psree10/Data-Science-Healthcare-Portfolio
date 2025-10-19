@@ -35,4 +35,5 @@ The goal was to **evaluate maternal factors influencing pregnancy and newborn ou
 
 ## 📷 Dashboard Preview  
 
-(![Maternal Health Analysis Dashboard](https://github.com/Psree10/Data-Science-Healthcare-Portfolio/blob/main/Maternal%20Health%20-%20Data%20Analysis/MH%20-%20Dashboard%20Images.md))
+(![Maternal Health Analysis Dashboard](<img width="1255" height="817" alt="MH - Dashboard 10" src="https://github.com/user-attachments/assets/575a0770-65a1-450e-906e-03b44b68870b" />)
+https://github.com/Psree10/Data-Science-Healthcare-Portfolio/blob/main/Maternal%20Health%20-%20Data%20Analysis/MH%20-%20Dashboard%20Images.md))
