@@ -35,7 +35,7 @@ This repository contains my **healthcare-focused data projects**, where I worked
    - 115-variable dataset analyzing maternal factors, labor, delivery, and newborn outcomes.
   
 4. **[Continuous Glucose Monitoring (CGM) & Diet Analysis](https://github.com/Psree10/Portfolio/tree/main/Continuous%20Glucose%20Monitoring%20(CGM)%20%26%20Diet%20Analysis)**  
-   - PostgreSQL | Power BI | Python | Google Script | Excel  
+   - Python | PostgreSQL | Power BI |  Google Script | Excel  
    - Nutrition classification, lifestyle activity levels, gut microbiome analysis, and glucose response patterns.
 
 5. **[Gestational Diabetes Analysis](https://github.com/Psree10/Data-Science-Healthcare-Portfolio/tree/main/Gestational%20Diabetes%20Analysis)**  
