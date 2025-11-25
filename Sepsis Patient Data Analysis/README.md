@@ -20,7 +20,7 @@ To identify key clinical indicators and demographic factors influencing sepsis o
 
 - **SIRS Email Alert Indicator:** Implemented an automated Systemic Inflammatory Response Syndrome alert system to notify physicians when patients reach the trigger hour, enabling rapid ICU response.
 
-### Dashboard Preview  
+### Dashboard Preview  - Tableau
 
 👉 [View My Tableau Profile](https://public.tableau.com/app/profile/psree10/vizzes)
 
