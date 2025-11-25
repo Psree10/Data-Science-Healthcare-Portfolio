@@ -33,7 +33,7 @@ The goal was to **evaluate maternal factors influencing pregnancy and newborn ou
 
 ---
 
-## 📷 Dashboard Preview  
+## 📷 Dashboard Preview  -  Power BI
 
 <p align="center">
   <a href="https://github.com/Psree10/Data-Science-Healthcare-Portfolio/blob/main/Maternal%20Health%20-%20Data%20Analysis/MH%20-%20Dashboard%20Images.md">
