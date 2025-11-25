@@ -32,10 +32,11 @@ This project focused on analyzing **Type 1 diabetes patient management data** wi
 
 ---
 
-## 📷 Visualization Preview  
+## 📷 Visualization Preview  - PYTHON
 
 ([Visualization Charts.pdf](https://github.com/Psree10/Data-Science-Healthcare-Portfolio/blob/main/Type%201%20Diabetes_Data%20Analysis/Descriptive%20Analysis%20Charts.pdf))
 ([Predictive Analysis](https://github.com/Psree10/Data-Science-Healthcare-Portfolio/blob/main/Type%201%20Diabetes_Data%20Analysis/Predictive%20Analysis%20Charts.md))
+
 
 
 
