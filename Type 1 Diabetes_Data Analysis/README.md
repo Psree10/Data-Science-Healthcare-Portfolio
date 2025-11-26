@@ -1,4 +1,4 @@
-# 💉 Type 1 Diabetes Management Analysis  
+# 💉 Type 1 Diabetes Management Analysis  - Descriptive & Predictive Analysis - ML
 
 ## 📌 Overview  
 This project focused on analyzing **Type 1 diabetes patient management data** with an emphasis on **insulin therapy, carbohydrate intake, and sleep patterns**. Using Python, I performed data wrangling, statistical analysis, and visualization to uncover insights into how insulin bolus/basal doses, diet, and lifestyle factors influence glucose management.  
@@ -36,6 +36,7 @@ This project focused on analyzing **Type 1 diabetes patient management data** wi
 
 ([Visualization Charts.pdf](https://github.com/Psree10/Data-Science-Healthcare-Portfolio/blob/main/Type%201%20Diabetes_Data%20Analysis/Descriptive%20Analysis%20Charts.pdf))
 ([Predictive Analysis](https://github.com/Psree10/Data-Science-Healthcare-Portfolio/blob/main/Type%201%20Diabetes_Data%20Analysis/Predictive%20Analysis%20Charts.md))
+
 
 
 
