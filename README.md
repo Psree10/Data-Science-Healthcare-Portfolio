@@ -26,7 +26,7 @@ This repository contains my **healthcare-focused data projects**, where I worked
    - Tableau | SQL | ETL | Hospitalization datasets  
    - Risk factor identification, multiorgan dysfunction analysis, and early warning dashboards.  
 
-2. **[Type 1 Diabetes Management](https://github.com/Psree10/Portfolio/tree/main/Type%201%20Diabetes_Data%20Analysis)**  
+2. **[Type 1 Diabetes Management - Python & ML models](https://github.com/Psree10/Portfolio/tree/main/Type%201%20Diabetes_Data%20Analysis)**  
    - Python (Pandas, NumPy, Matplotlib, Seaborn, Plotly, Machine Learning)  
    - Analysis of insulin bolus/basal dosing, carbohydrate intake, calories_burned, sleep patterns, and glucose variability.  
 
